@@ -1,11 +1,18 @@
-bory{
-color: blue;
-background: cadetblue;
+body{
+color: aqua;
+background: gold;
 }
-  heade{
-border-bottom: solid  2px rgb(rgb(255, 0, 0),)
- 
-
-    }
-
-
+header{
+border-bottom: solid 2px rgb(rgb(255, 0, 0);
+padding: 20px;
+font-size: 32px;
+color: aqua;
+background: dimgray;
+}
+.chamada{
+  background: blueviolet;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display:flex ;
+  justify-content: center;
+}
